@@ -1,0 +1,287 @@
+body {
+    font-family: "Arial";
+    margin:0px; 
+    padding:0px;
+}
+
+#content {
+    text-align: left;
+    color: #525252;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    font-size: 12px;
+    border: solid 1px #ed9f21;
+    background-color: #f8f8f8;
+    padding-right: 8px;
+    padding-top: 10px;
+    font-family: "Georgia CE", "Times New CE", "New York CE", "Times CE", Georgia, times, serif;
+    font-size: 12px;
+}
+
+a {
+    color: #e47526;
+}
+
+
+.break {
+    page-break-before: always;
+}
+
+
+/*  jidlo ---------------------------------- */
+.table_food {
+    width: 220px;
+    height: 8.8cm;
+    font-size: 10px;
+    float: left;
+	border-collapse: collapse;
+}
+
+.table_food td {
+    text-align: center;
+	border: solid 1px;
+}
+
+
+.td_food {
+    text-align: center;
+    font-size: 12px;
+}
+
+.food_bottom {
+    color: #888888;
+    font-size: 10px;
+}
+
+.food_name {
+    font-size: 12px;
+}
+
+.food_name span {
+    font-size: 10px;
+}
+
+/* stitky ------------------ */
+.table_stitek {
+    width: 100%;
+}
+
+
+.stitek {
+    font-family: times new roman;
+    font-size: 14px;
+    width: 50%;
+    height: 237px;
+    padding-left: 10px;
+		overflow: hidden;
+}
+
+.stitek_code {
+    color: #000000;
+    font-size: 26px;
+}
+
+
+.stitek_name_old {
+    color: #ff0000;
+    font-size: 20px;
+}
+
+.stitek_name {
+    color: #ff0000;
+    font-size: 28px;
+}
+
+.stitek_guest_name {
+    color: #0000ff;
+    font-size: 26px;
+}
+
+
+.stitek_platba {
+    color: #000000;
+    font-size: 14px;
+}
+
+.stitek_mail {
+    color: #000000;
+    font-size: 10px;
+}
+
+.stitek_doplatky {
+    color: #ff0000;
+}
+
+.stitek_doplatky_blue {
+    color: #0000ff;
+}
+
+.stitek_small {
+    font-size: 11px;
+}
+
+.stitek_inter_table {
+    text-align: center;
+    width: 330px;
+}
+
+.stitek_ubyt {
+}
+
+.ubyt_name {
+    font-size: 15px;
+}
+
+.ubyt_room {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.left {
+    text-align: left;
+}
+
+.red {
+    color: #ff0000;
+}
+
+.table_material {
+    width: 220px;
+    font-size: 10px;
+    float: left;
+}
+
+/* Adresy vedoucich linii */
+
+.adress_table {
+    border: 0px;
+}
+
+.adress {
+    width: 200px;
+    text-align: left;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+
+/* Karti�ky vedouc�ch linii */
+
+.card_all {
+    width: 245px;
+    height: 344px;
+}
+
+.card_table {
+    border: 0px;
+}
+
+.card_top {
+    background-color: #fe9900;
+    width: 315px;
+    height: 19px;
+}
+
+.card_header {
+    font-family: "Albertus Medium";
+    font-size: 30px;
+    height: 82px;
+}
+
+.card_logo {
+    float: right;
+    margin-right: 40px;
+}
+
+.card_middle {
+    background-color: #fe9900;
+    height: 160px;
+    text-align: center;
+}
+
+.card_name {
+    height: 108px;
+    text-align: center;
+    font-family: "Albertus Medium";
+    font-size: 22px;
+}
+
+.card_bottom {
+    background-color: #fe9900;
+    width: 315px;
+    height: 16px;
+}
+
+.program_all {
+    border-right: solid 1px #000000;
+    border-bottom: solid 1px #000000;
+    font-size: 12px;
+    width: 1900px;
+}
+
+
+.program_table {
+    border-left: solid 1px #000000;
+    border-top: solid 1px #000000;
+    text-align: left;
+    width: 100%;
+    font-size: 11px;
+}
+
+.program_name {
+    text-align: left;
+    border-bottom: solid 1px #cccccc;
+    padding: 0px;
+}
+
+.program_title {
+    text-align: left;
+    border-bottom: solid 1px #cccccc;
+    height: 33px;
+    padding: 0px;
+}
+
+.program_typ {
+    text-align: left;
+    padding: 0px;
+}
+
+.program_time {
+    border: solid 1px #000000;
+    border-top: solid 2px #000000;
+    width: 111px;
+}
+
+#anotace_window {
+    position: absolute;
+    border: solid 1px #000000;
+    width: 320px;
+    display: none;
+    font-size: 12px;
+    z-index: 100;
+}
+
+#anotace_header {
+    background-color: #333333;
+    color: #ffffff;
+    font-weight: bold;   
+    padding-left: 4px;
+}
+
+#anotace_body {
+    background-color: #ffffff;
+    padding-left: 4px;
+    color: #000000;
+}
+
+.bordered {
+	border: solid 1px;
+	border-collapse: collapse;
+}
+
+.bordered td {
+	border: solid 1px;
+}
+
+.inactive {
+	background-color: #aaaaaa;
+}

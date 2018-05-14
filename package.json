@@ -1,0 +1,15 @@
+{
+  "name": "sane-ff",
+  "version": "1.0.0",
+  "description": "Generate same program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meri",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1"
+  }
+}
