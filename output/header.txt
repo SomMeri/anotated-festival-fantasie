@@ -21,6 +21,14 @@
      <input type="radio" name="dates" value="30.6." onchange="changeDay()">sobota</input>
      <input type="radio" name="dates" value="1.7" onchange="changeDay()">nedela</input>
      <input type="radio" name="dates" value="2.7" onchange="changeDay()">pondelok</input>
-     <input type="radio" name="dates" value="all" onchange="changeDay()">all</input>
+     <input type="radio" name="dates" value="all" onchange="changeDay()" checked>all</input>
+  </form>
+</div>
+
+<div class="print-invisible">
+  <form name="time-changer">
+     <input type="radio" name="time" value="morning" onchange="changeTime()">morning</input>
+     <input type="radio" name="time" value="evening" onchange="changeTime()">evening</input>
+     <input type="radio" name="time" value="all" onchange="changeTime()" checked>all</input>
   </form>
 </div>
