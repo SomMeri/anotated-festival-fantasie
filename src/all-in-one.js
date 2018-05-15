@@ -10,6 +10,7 @@ function addIdentifier(line, identifier) {
     const prefix = line.substring(0, boldIndex+3);
     const suffix = line.substring(boldIndex+3, line.length);
     content = prefix + identifier + " - " + suffix;
+    content = content.replace("<br><br>", "<br>");
   }
   return content;
 }

@@ -287,14 +287,27 @@ a {
 }
 
 .program_annotation {
-	height: 150px !important;
+	height: 150px;
 	border-top: solid 1px #cccccc;
 	vertical-align: top;
+	overflow: auto;
+}
+
+.anotace_body {
+	overflow: auto;
 }
 
 @media print {
  .print-invisible {
 	display: none;
+ }
+
+ .program_all {
+    page-break-inside: avoid;
+ }
+
+ .day-linie-block {
+    page-break-inside: avoid;
  }
 }
 

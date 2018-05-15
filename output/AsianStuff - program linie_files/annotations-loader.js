@@ -17,3 +17,13 @@ function addAnnotations() {
 
     console.log('-- done --');
 };
+
+
+function removeAnotationWindows() {
+	var i =0;	
+	var node = document.getElementById('anotace_window');
+	while (node) {
+		node.parentNode.remove();
+		node = document.getElementById('anotace_window');
+	}
+}

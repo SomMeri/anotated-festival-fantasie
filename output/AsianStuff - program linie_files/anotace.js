@@ -40,7 +40,7 @@ function get_data_request(request, el) {
             div = document.getElementById("anotace_window");
 
             var inner = "";
-            inner += "<div id=\"anotace_body\">\n";
+            inner += "<div class=\"anotace_body\">\n";
             inner += obsah
             inner += "</div>\n";
 

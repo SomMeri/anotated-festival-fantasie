@@ -1,6 +1,6 @@
 <div>
 <br>
-<b>AsianStuff - Pátek 29.6. 2018</b><br><br>
+<b>AsianStuff - Pátek 29.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -247,7 +247,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>AsianStuff - Sobota 30.6. 2018</b><br><br>
+<b>AsianStuff - Sobota 30.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -494,7 +494,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>AsianStuff - Neděle 1.7. 2018</b><br><br>
+<b>AsianStuff - Neděle 1.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -733,7 +733,7 @@
 <div>
 <br>
 <div id="anotace_window" onmouseout="hide();"></div>
-<b>BritCon - Pátek 29.6. 2018</b><br><br>
+<b>BritCon - Pátek 29.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -993,7 +993,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>BritCon - Sobota 30.6. 2018</b><br><br>
+<b>BritCon - Sobota 30.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -1240,7 +1240,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>BritCon - Neděle 1.7. 2018</b><br><br>
+<b>BritCon - Neděle 1.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -1461,7 +1461,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>BritCon - Pondělí 2.7. 2018</b><br><br>
+<b>BritCon - Pondělí 2.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -1708,7 +1708,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>BritCon - Úterý 3.7. 2018</b><br><br>
+<b>BritCon - Úterý 3.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -1968,7 +1968,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>BritCon - Středa 4.7. 2018</b><br><br>
+<b>BritCon - Středa 4.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -2220,7 +2220,7 @@
 <div>
 <br>
 <div id="anotace_window" onmouseout="hide();" style="left: 741px; top: 193px; display: none;"></div>
-<b>FantasyHistory - Neděle 1.7. 2018</b><br><br>
+<b>FantasyHistory - Neděle 1.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -2467,7 +2467,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>FantasyHistory - Pondělí 2.7. 2018</b><br><br>
+<b>FantasyHistory - Pondělí 2.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -2714,7 +2714,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>FantasyHistory - Úterý 3.7. 2018</b><br><br>
+<b>FantasyHistory - Úterý 3.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -2974,7 +2974,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>FantasyHistory - Středa 4.7. 2018</b><br><br>
+<b>FantasyHistory - Středa 4.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -3221,7 +3221,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>FantasyHistory - Čtvrtek 5.7. 2018</b><br><br>
+<b>FantasyHistory - Čtvrtek 5.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -3481,7 +3481,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>FantasyHistory - Pátek 6.7. 2018</b><br><br>
+<b>FantasyHistory - Pátek 6.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -3733,7 +3733,7 @@
 <div>
 <br>
 <div id="anotace_window" onmouseout="hide();" style="left: 524px; top: 53px; display: none;"></div>
-<b>PoniCon - Pondělí 2.7. 2018</b><br><br>
+<b>PoniCon - Pondělí 2.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -3928,7 +3928,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>PoniCon - Úterý 3.7. 2018</b><br><br>
+<b>PoniCon - Úterý 3.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -4167,7 +4167,7 @@
 <div>
 <br>
 <div id="anotace_window" onmouseout="hide();" style="left: 1262px; top: 53px; display: none;"></div>
-<b>SeriesCon - Pátek 29.6. 2018</b><br><br>
+<b>SeriesCon - Pátek 29.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -4427,7 +4427,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>SeriesCon - Sobota 30.6. 2018</b><br><br>
+<b>SeriesCon - Sobota 30.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -4661,7 +4661,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>SeriesCon - Neděle 1.7. 2018</b><br><br>
+<b>SeriesCon - Neděle 1.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -4921,7 +4921,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>SeriesCon - Pondělí 2.7. 2018</b><br><br>
+<b>SeriesCon - Pondělí 2.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -5181,7 +5181,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>SeriesCon - Úterý 3.7. 2018</b><br><br>
+<b>SeriesCon - Úterý 3.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -5441,7 +5441,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>SeriesCon - Středa 4.7. 2018</b><br><br>
+<b>SeriesCon - Středa 4.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -5693,7 +5693,7 @@
 <div>
 <br>
 <div id="anotace_window" onmouseout="hide();" style="left: 1051px; top: 53px; display: none;"></div>
-<b>ThroneCon - Pátek 29.6. 2018</b><br><br>
+<b>ThroneCon - Pátek 29.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -5940,7 +5940,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>ThroneCon - Sobota 30.6. 2018</b><br><br>
+<b>ThroneCon - Sobota 30.6. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -6174,7 +6174,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>ThroneCon - Neděle 1.7. 2018</b><br><br>
+<b>ThroneCon - Neděle 1.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -6408,7 +6408,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>ThroneCon - Pondělí 2.7. 2018</b><br><br>
+<b>ThroneCon - Pondělí 2.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -6642,7 +6642,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>ThroneCon - Úterý 3.7. 2018</b><br><br>
+<b>ThroneCon - Úterý 3.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
@@ -6850,7 +6850,7 @@
 </tr>
 </tbody></table>
     <br>
-<b>ThroneCon - Středa 4.7. 2018</b><br><br>
+<b>ThroneCon - Středa 4.7. 2018</b><br>
 <table class="program_all" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td class="program_time">8:00</td>
