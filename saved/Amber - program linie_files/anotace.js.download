@@ -21,7 +21,7 @@ function sent_request(id, elm) {
     request.open("POST", url, true);
     request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
     request.send("id=" + id);
-    console.log('Sent ' + id);
+//    console.log('Sent ' + id);
 }
 
 function get_data_request(request, el) {
@@ -40,7 +40,7 @@ function get_data_request(request, el) {
             div = document.getElementById("anotace_window");
 
             var inner = "";
-            inner += "<div id=\"anotace_body\">\n";
+            inner += "<div class=\"anotace_body\">\n";
             inner += obsah
             inner += "</div>\n";
 

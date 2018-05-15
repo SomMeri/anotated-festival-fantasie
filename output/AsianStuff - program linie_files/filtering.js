@@ -31,9 +31,9 @@ function changeDay() {
 			var datum = node.getAttribute('datum');
 			var match = datum.indexOf(currentSelection) > -1;
 			node.style.display = match ? "block" : "none";
-
-			adjustHeight(node);
 		}
+		
+		adjustHeight(node);
 	}
 }
 
