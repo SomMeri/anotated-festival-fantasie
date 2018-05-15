@@ -1,0 +1,14 @@
+</div>
+<script type="text/javascript">
+  function process() {
+      addAnnotations();
+  }
+
+  if (window.addEventListener)
+      window.addEventListener("load", process, false);
+  else if (window.attachEvent)
+      window.attachEvent("onload", process);
+  else window.onload = process;
+</script>
+</body></html>
+

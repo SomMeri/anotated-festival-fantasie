@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0060)http://amber.festivalfantazie.cz/program_linie.php?linie=285 -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs" xml:lang="cs"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Amber - program linie</title>
+  
+  <meta http-equiv="content-language" content="cs">
+  <meta name="description" content="registrace na Festival fantazie">
+  <meta name="keywords" content="sci-fi, fantasy, festival, chotebor">
+  <meta name="author" content="SGS@alpaka.cz">
+  <meta name="email" content="sgs@alpaka.cz">
+  <meta name="language" content="cs">
+  <meta name="robots" content="all,follow">
+  <link rel="stylesheet" type="text/css" href="./AsianStuff - program linie_files/print.css"> 
+  <script type="text/javascript" src="./AsianStuff - program linie_files/anotace.js"></script>
+  <script type="text/javascript" src="./AsianStuff - program linie_files/annotations-loader.js"></script>
+  <script type="text/javascript" src="./AsianStuff - program linie_files/filtering.js"></script>
+</head>
+<body style="background-color: #ffffff; margin-left: 4px; color: #000000">
+<div class="print-invisible">
+  <form name="day-changer">
+     <input type="radio" name="dates" value="30.6." onchange="changeDay()">sobota</input>
+     <input type="radio" name="dates" value="1.7" onchange="changeDay()">nedela</input>
+     <input type="radio" name="dates" value="2.7" onchange="changeDay()">pondelok</input>
+     <input type="radio" name="dates" value="all" onchange="changeDay()">all</input>
+  </form>
+</div>

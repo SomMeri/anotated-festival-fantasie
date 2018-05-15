@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
-    "commander": "^2.15.1"
+    "commander": "^2.15.1",
+    "concat-files": "^0.1.1",
+    "promise": "^8.0.1"
   }
 }
