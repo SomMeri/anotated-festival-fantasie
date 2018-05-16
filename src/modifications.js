@@ -11,6 +11,7 @@ function addProgramAnnotationBlock(line) {
   if (addProgramAnnotationToNext) {
     content = line + '\n<tr>\n    <td class="program_annotation" requestId=' + requestId + '>&nbsp;</td>\n</tr>';
     addProgramAnnotationToNext = false;
+    requestId = null;	  
   }
   if (line.indexOf('td class="program_typ"') > -1) {
     addProgramAnnotationToNext = true;
