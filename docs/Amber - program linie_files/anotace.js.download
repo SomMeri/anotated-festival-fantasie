@@ -12,6 +12,7 @@ function do_request() {
 }
 
 function sent_request(id, elm) {
+    return ;
     el = elm;
     var url = "./ajax/anotace.php";
     url = "http://amber.festivalfantazie.cz/ajax/anotace.php";
