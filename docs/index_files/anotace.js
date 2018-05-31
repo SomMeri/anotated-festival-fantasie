@@ -18,19 +18,24 @@ function sent_request(id, elm) {
     url = "http://amber.festivalfantazie.cz/ajax/anotace.php";
 
     do_request();
-    request.onreadystatechange = get_data_request(request, elm);
+    request.onreadystatechange = get_data_request(request, elm, id);
     request.open("POST", url, true);
     request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
     request.send("id=" + id);
 //    console.log('Sent ' + id);
 }
 
-function get_data_request(request, el) {
+function get_data_request(request, el, id) {
 
     function get_data() {
         if (request.readyState == 4) {
 
             var response = request.responseXML;
+            if (response==null) {
+                console.error("Request id " + id + " returned null response");
+                return ;
+            }
+
             var all = response.getElementsByTagName("porad")[0];
 
             var nameTag = all.getElementsByTagName("name")[0].firstChild;
